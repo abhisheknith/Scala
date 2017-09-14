@@ -1,0 +1,9 @@
+[info] Packaging /opt/devtools/scala/idea_workspace/objsets/target/scala-2.11/progfun1-objsets_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	objsets/TweetReader.scala
+[debug] 	  /opt/devtools/scala/idea_workspace/objsets/src/main/scala/objsets/TweetReader.scala
+[debug] 	objsets/TweetSet.scala
+[debug] 	  /opt/devtools/scala/idea_workspace/objsets/src/main/scala/objsets/TweetSet.scala
+[debug] 	objsets/TweetData.scala
+[debug] 	  /opt/devtools/scala/idea_workspace/objsets/src/main/scala/objsets/TweetData.scala
+[info] Done packaging.
